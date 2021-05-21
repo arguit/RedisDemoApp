@@ -28,7 +28,7 @@ docker exec -it my-redis sh
 ## Run Redis CLI
 
 ```powershell
-redis-sli
+redis-cli
 ```
 
 ## Stop Redis docker image
